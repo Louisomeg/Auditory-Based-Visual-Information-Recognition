@@ -1,0 +1,8 @@
+Pattern ID,Description,Filename
+Pattern_A_FullBlack,Full Black Screen,patterns\Pattern_A_FullBlack.png
+Pattern_B_FullWhite,Full White Screen,patterns\Pattern_B_FullWhite.png
+Pattern_C_VerticalSplit,"Vertical Split: Left Black, Right White",patterns\Pattern_C_VerticalSplit.png
+Pattern_D_HorizontalSplit,"Horizontal Split: Top Black, Bottom White",patterns\Pattern_D_HorizontalSplit.png
+Pattern_E_Checkerboard,Checkerboard Pattern,patterns\Pattern_E_Checkerboard.png
+Pattern_F_BlackCircleOnWhite,Black Circle on White Background,patterns\Pattern_F_BlackCircleOnWhite.png
+Pattern_G_WhiteSquareOnBlack,White Square on Black Background,patterns\Pattern_G_WhiteSquareOnBlack.png
