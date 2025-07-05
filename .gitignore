@@ -1,0 +1,10 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.py[cod]
+
+# Generated logs and catalogs
+experiment_log.csv
+pattern_catalog.csv
+
+# Generated pattern images
+patterns/
